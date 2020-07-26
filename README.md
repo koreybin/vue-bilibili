@@ -1,6 +1,12 @@
 # bili
 
 > A Vue.js project
+>
+> 接口（开源）
+>
+>  http://112.74.99.5:3000/web/api 
+>
+> 感谢b站大佬 小风__
 
 ## Build Setup
 
@@ -26,5 +32,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
